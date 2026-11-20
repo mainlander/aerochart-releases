@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "released": "2026-11-19",
-  "url": "https://github.com/mainlander/aerochart-releases/releases/tag/v1.1.1",
-  "notes": "Korean interface (한국어), with Hangul in the MSFS panel font (download AeroChart-1.1.1-win64.zip)."
+  "version": "1.1.2",
+  "released": "2026-11-20",
+  "url": "https://github.com/mainlander/aerochart-releases/releases/tag/v1.1.2",
+  "notes": "Sharper en-route base map: Natural Earth 1:10m coastlines, islands and lakes when zoomed in (download AeroChart-1.1.2-win64.zip)."
 }
